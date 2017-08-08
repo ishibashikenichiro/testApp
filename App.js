@@ -15,7 +15,8 @@ class About extends React.Component {
   render() {
     return( 
      <Text style={{fontSize: 20}}>
-        タスク：感情選択方式のテスト〜8/8
+        タスク：感情選択方式のテスト〜8/8{"\n"}
+        タスク：swiperの非表示の問題の解決、reactionsの改善8/8〜
       </Text>
       );
   }
