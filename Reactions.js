@@ -4,6 +4,7 @@ import ActionButton from 'react-native-circular-action-menu';
 import Icon from 'react-native-vector-icons/Ionicons';
 import { FloatingAction } from 'react-native-floating-action';
 //import FloatingAction from './component/FloatingAction';
+import SwipeALot from 'react-native-swipe-a-lot';
 
 export default class Reactions extends Component {
 	
